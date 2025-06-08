@@ -37,3 +37,4 @@ Bitcoin has all the characteristics of **sound money**:
 
 ## 🧡 Built by Simply Sovereign
 
+\nTest commit with PGP signature
